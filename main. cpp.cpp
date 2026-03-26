@@ -7,7 +7,7 @@ int main()
 {
 	int x, y, z, sum;
 	cin>> x >> y >> z;
-	sum = x + y + z;
+	sum = x-y-z;
 	cout << "sum =" << sum;
 }
 
