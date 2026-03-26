@@ -5,6 +5,7 @@
 using namespace std;
 int main()
 {
+	cout<<"enter the number";
 	int x, y, z, sum;
 	cin>> x >> y >> z;
 	sum = x-y-z;
